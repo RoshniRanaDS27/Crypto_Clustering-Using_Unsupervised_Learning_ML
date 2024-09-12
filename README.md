@@ -4,7 +4,7 @@ In this challenge, knowledge of Python and unsupervised learning was used to pre
 
  <img src="https://media3.giphy.com/media/RKuFhBKHnkWjkjpnDk/giphy.webp?cid=ecf05e47nkefwg0tbsytoqp9e4d4nl6afaiay04qd9befn20&ep=v1_stickers_search&rid=giphy.webp&ct=s" class="card-img-top" alt="Project 19">
 
-# Data Overview 
+# Data Overview  
 ![image](https://github.com/user-attachments/assets/0955bb8d-45ee-4912-a5ca-ec93b0e3a8f5)
 ![image](https://github.com/user-attachments/assets/49e247be-2cc8-47af-bba8-fb3d3244e257)
 ![image](https://github.com/user-attachments/assets/030b4b08-3707-4b18-ad87-2140c800490d)
